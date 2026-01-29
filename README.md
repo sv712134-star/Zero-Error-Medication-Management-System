@@ -1,5 +1,7 @@
-# Zero-Error-Medication-Management-System
+# Zero-Error Medication Management System
+
 A comprehensive AI-powered prescription digitization and medication management system with OCR, Named Entity Recognition (NER), and validation capabilities.
+
 ## Features
 
 ### 1. **Image Preprocessing Module**
